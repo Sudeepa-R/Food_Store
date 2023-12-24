@@ -58,13 +58,21 @@ background: linear-gradient(94deg, rgba(255,243,175,0.9276960784313726) 19%, rgb
 .homecontent p{
     margin:4rem 5rem 0 6rem;
     font-size: 1.1rem;
+    font-family:sans-serif;
+    font-weight: 400;
+    line-height: 1.4;
+    letter-spacing: 0.02rem;
+}
+/* .homecontent p{
+    margin:4rem 5rem 0 6rem;
+    font-size: 1.1rem;
     color:black;
     /* font-family:sans-serif; */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: 100;
     line-height: 1.4;
     letter-spacing: 0.02rem;
-}
+} */
 .homepage{
     width: 50%;
     height: 100vh;
